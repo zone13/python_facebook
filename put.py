@@ -5,6 +5,7 @@
 ### Author: Sid
 ### https://zone13.io
 ### Version 1.0
+### Adopted from http://nodotcom.org/python-facebook-tutorial.html
 ###########################################
 
 import facebook, time, base64, textwrap
