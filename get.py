@@ -5,6 +5,7 @@
 ### Author: Sid
 ### https://zone13.io
 ### Version 1.0
+### Adopted from https://github.com/minimaxir/facebook-page-post-scraper/blob/master/get_fb_posts_fb_page.py
 ###########################################################
 
 import urllib2, json, base64
